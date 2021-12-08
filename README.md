@@ -30,3 +30,19 @@ The code will be tested against test cases.
 For performance we are testing the code with a file having 1million records, 10 million records and 100 million records
 ### Hardware Requirement:
  1GB RAM, 2 core CPU
+ 
+## Best Practices.
+* Follow the PEP8 style guide from [here](https://www.python.org/dev/peps/pep-0008/)
+* Write modular code so that functions are easy to test and resuse.
+
+## How to get started with the repository?
+* Login to github and visit the [repository](https://github.com/affinityanswers/dataoverflow-mockproblem/).
+* Fork the repository by clicking the fork button.
+* [Clone](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#_git_cloning) the forked respository to the local machine
+* Start writing your code by updating the `script.py` in `location_aggregation` function feel free add/modify the code, do not modify the main function and the exisitng import statements.
+* If your code is using additional libraries please mention it in the `requirements.txt`.
+* Run the basic test cases by running.
+  ```python3 script.py test```
+  This tests your code with basic test cases.
+* Once you are happy with the code, commit the code
+* Submit your github repository link along with the commit id in our [website](https://dataoverflow.affinityanswers.com).
