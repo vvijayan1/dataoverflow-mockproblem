@@ -1,4 +1,3 @@
-from csv import writer, reader
 
 
 def location_aggregation(input_files, output_file):
