@@ -26,8 +26,9 @@ USER_ID LOCATION_ID
 1293    7,4
 2345    1
 ```
-
+### How will your code be tested?
 The code will be tested against test cases.
+
 For performance we are testing the code with a file having 1million records, 10 million records and 100 million records
 ### Hardware Requirement:
  1GB RAM, 2 core CPU
