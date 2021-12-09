@@ -12,4 +12,5 @@ def location_aggregation(input_files, output_file):
     """
     # your code goes here.
     #  feel free to modify this entire script, except this function signature.
+    print("My code went here")
     pass
